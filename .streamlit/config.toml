@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#0a0a0a"
+backgroundColor = "#f5f5f5"
+secondaryBackgroundColor = "#fafafa"
+textColor = "#0a0a0a"
+font = "sans serif"
+
+[server]
+headless = true
+
+# Dibuka agar aplikasi bisa diakses lewat terowongan (tunnl.gg, Cloudflare Tunnel,
+# ngrok). Tanpa ini, WebSocket ditolak: "Cross origin websockets not allowed".
+# Konsekuensi: perlindungan CORS/XSRF Streamlit nonaktif, jadi URL publik siapa pun
+# bisa memakai aplikasi ini. Nyalakan lagi (true) kalau hanya dipakai di lokal.
+enableCORS = false
+enableXsrfProtection = false

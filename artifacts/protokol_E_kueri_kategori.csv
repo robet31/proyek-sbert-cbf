@@ -1,0 +1,14 @@
+kategori,kueri,n_destinasi,indo-sentence-bert,TF-IDF (pembanding acuan)
+pantai,pantai,44,1.0,1.0
+air terjun,air terjun,22,1.0,1.0
+sejarah,wisata sejarah,23,1.0,0.8
+pegunungan,gunung dan pegunungan,22,1.0,0.7
+rekreasi/edukasi,wisata rekreasi dan edukasi,17,0.6,0.4
+hutan/perkebunan,hutan dan perkebunan,14,0.7,0.7
+religi,wisata religi,13,0.8,0.8
+taman,taman,11,0.8,0.8
+danau/waduk,danau dan waduk,9,0.4,0.9
+goa,goa,8,0.7,0.8
+desa/kampung wisata,desa wisata,6,0.3,0.3
+pemandian,pemandian air panas,3,0.2,0.2
+sungai,sungai,2,0.1,0.2

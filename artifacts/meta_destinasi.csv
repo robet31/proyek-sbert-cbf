@@ -1,0 +1,203 @@
+dest,n_reviews,season,cat,rating_mean
+Air Dolo,443,Kemarau & Penghujan,air terjun,4.512415349887133
+Air Irenggolo,245,Kemarau & Penghujan,air terjun,4.546938775510204
+Air Panas Blawan,108,Kemarau,pemandian,4.583333333333333
+Air Terjun Coban Kromo,33,Kemarau & Penghujan,air terjun,3.787878787878788
+Air Terjun Kedung Maor,23,Kemarau,air terjun,4.478260869565218
+Air Terjun Mandakaripuna,491,Kemarau,air terjun,4.014256619144603
+Air Terjun Nglirip,651,Kemarau,air terjun,4.602150537634409
+Air Terjun Pengantin,117,Kemarau & Penghujan,air terjun,4.3760683760683765
+Air Terjun Putuk Truno,285,Kemarau & Penghujan,air terjun,4.4035087719298245
+Air Terjun Roro Kuning,177,Kemarau & Penghujan,air terjun,4.209039548022599
+Air Terjun Tancak,36,Kemarau,air terjun,4.555555555555555
+Air Terjun Toroan,376,Kemarau & Penghujan,air terjun,4.428191489361702
+Air Terjun Umbulan,21,Kemarau & Penghujan,air terjun,4.0
+Air Terjuntancakkembar,56,Kemarau & Penghujan,air terjun,4.446428571428571
+Air Terjuntretes,45,Kemarau,air terjun,4.844444444444444
+Air Terjuntumpaksewu,450,Kemarau,air terjun,4.762222222222222
+Air terjun Dlundung,324,Kemarau,air terjun,4.444444444444445
+Air terjun Tirtosari,130,Kemarau,air terjun,4.769230769230769
+Alun Alun Bangkalan,618,Kemarau,taman,4.299352750809062
+Alun-alun Tugumalang,507,Kemarau,taman,4.80276134122288
+Api Tak Kunjung Padam,431,Kemarau,lainnya,4.211136890951276
+Asta Tinggi,96,Kemarau,religi,4.583333333333333
+Batu Nigth Spectaculer,371,Kemarau & Penghujan,rekreasi/edukasi,4.409703504043127
+Beejaybakauresort(Bjbr),551,Kemarau,rekreasi/edukasi,4.070780399274047
+Benteng Van Den Bosch,754,Kemarau,sejarah,4.63129973474801
+Buki Teletubies,624,Kemarau,pegunungan,4.7451923076923075
+Bukit Bayon,82,Kemarau,pegunungan,4.390243902439025
+Bukit Cumbri,268,Kemarau,pegunungan,4.776119402985074
+Bukit Jadih,429,Kemarau,pegunungan,3.762237762237762
+Bukit Jengkoang,299,Kemarau,pegunungan,4.518394648829432
+Bukit Kapur Arosbaya,170,Kemarau,pegunungan,4.423529411764706
+Bukit Kehi,22,Kemarau,pegunungan,4.2727272727272725
+Bukit Salju,22,Kemarau,pegunungan,4.0
+Candi Jawi,171,Kemarau & Penghujan,sejarah,4.684210526315789
+Candi Lor,79,Kemarau & Penghujan,sejarah,4.670886075949367
+Candi Ngetos,115,Kemarau & Penghujan,sejarah,4.6173913043478265
+Candi Panataran,157,Kemarau & Penghujan,sejarah,4.885350318471337
+Candi Pari,358,Kemarau & Penghujan,sejarah,4.720670391061453
+Candi Ranjangbatu,305,Kemarau & Penghujan,sejarah,4.79344262295082
+Candi Rimbi,81,Kemarau & Penghujan,sejarah,4.753086419753086
+Candi Sumur,38,Kemarau & Penghujan,sejarah,4.5
+Candi Tikus,344,Kemarau & Penghujan,sejarah,4.65406976744186
+Cemorosewu,267,Kemarau & Penghujan,pegunungan,4.696629213483146
+Cimori,1330,Kemarau & Penghujan,rekreasi/edukasi,4.526315789473684
+Coban Lawean,26,Kemarau & Penghujan,air terjun,4.576923076923077
+Coban Pelangi,191,Kemarau & Penghujan,air terjun,4.7434554973821985
+Coban Rais,442,Kemarau & Penghujan,air terjun,3.984162895927602
+Coban Rondo,105,Kemarau & Penghujan,air terjun,4.723809523809524
+Deltafishing,242,Kemarau & Penghujan,rekreasi/edukasi,3.760330578512397
+Desa Wisata Osing,179,Kemarau & Penghujan,desa/kampung wisata,4.167597765363128
+Desa Wisatapujon,476,Kemarau & Penghujan,desa/kampung wisata,4.5966386554621845
+Gililabak,25,Kemarau,pantai,4.72
+Goa Akbar,266,Kemarau,goa,4.5
+Goa Gong,610,Kemarau,goa,4.50655737704918
+Goa Lowo,188,Kemarau,goa,4.420212765957447
+Goa Maharani,571,Kemarau,goa,4.618213660245184
+Goa Selomangleng,33,Kemarau,goa,4.181818181818182
+Goa Sigolo,60,Kemarau,goa,4.083333333333333
+Goa Tetes,257,Kemarau,goa,4.78988326848249
+Goal Selomangleng,430,Kemarau,goa,4.504651162790697
+Gofun,224,Kemarau,rekreasi/edukasi,4.348214285714286
+Grogoland,387,Kemarau & Penghujan,rekreasi/edukasi,4.48578811369509
+Gunung Arjuna,117,Kemarau,pegunungan,4.726495726495727
+Gunung Beruk,18,Kemarau & Penghujan,pegunungan,3.3333333333333335
+Gunung Bromo,131,Kemarau,pegunungan,4.801526717557252
+Gunung Kelud,555,Kemarau & Penghujan,pegunungan,4.628828828828829
+Gunung Penaggungan,333,Kemarau,pegunungan,4.813813813813814
+Hutan Bambu Keputih,430,Kemarau & Penghujan,hutan/perkebunan,4.455813953488372
+Hutan Keranepa,61,Kemarau & Penghujan,hutan/perkebunan,4.065573770491803
+Hutan Manggrove Pancer Cengkor,194,Kemarau & Penghujan,hutan/perkebunan,4.335051546391752
+Hutan Pinus,231,Kemarau & Penghujan,hutan/perkebunan,4.489177489177489
+Hutan Pinus Selondo,77,Kemarau & Penghujan,hutan/perkebunan,4.623376623376624
+Ijen Blue Fire Tour,229,Kemarau & Penghujan,pegunungan,4.720524017467249
+Istana Gebang,822,Kemarau & Penghujan,sejarah,4.723844282238443
+Jamus,599,Kemarau,hutan/perkebunan,4.587646076794658
+Jatimpark1,486,Kemarau & Penghujan,rekreasi/edukasi,4.275720164609053
+Jatimpark2,715,Kemarau & Penghujan,rekreasi/edukasi,4.567832167832168
+Jatimpark3,611,Kemarau & Penghujan,rekreasi/edukasi,4.296235679214402
+Kampung Batik Jetis,25,Kemarau & Penghujan,desa/kampung wisata,4.36
+Kampung Biru Arema,109,Kemarau & Penghujan,desa/kampung wisata,4.504587155963303
+Kampung Coklat,701,Kemarau & Penghujan,desa/kampung wisata,4.563480741797433
+Kampung Warna Warni Jodipan,628,Kemarau & Penghujan,desa/kampung wisata,4.369426751592357
+Kawah Ijen,479,Kemarau & Penghujan,pegunungan,4.772442588726514
+Kawah Wurung,395,Kemarau & Penghujan,pegunungan,4.643037974683544
+Kayangan Api ,565,Kemarau & Penghujan,lainnya,4.550442477876106
+Kayutangan,640,Kemarau & Penghujan,sejarah,4.6578125
+Kebun Binatang Surabaya,532,Kemarau & Penghujan,rekreasi/edukasi,4.323308270676692
+Kebun Kakao,323,Kemarau,hutan/perkebunan,4.572755417956657
+Kebun Raya Purwodadi,781,Kemarau,hutan/perkebunan,4.405889884763124
+Kebun Stroberi Plaosan,194,Kemarau,hutan/perkebunan,4.030927835051546
+Kebunteh Sirahkencong,793,Kemarau,hutan/perkebunan,4.627994955863809
+Klenteng Kwangsibio,411,Kemarau & Penghujan,religi,4.7177615571776155
+Kota Tua,304,Kemarau & Penghujan,sejarah,4.6381578947368425
+Lumpur Lapindo,321,Kemarau,lainnya,3.5077881619937696
+Mahavihara Mojopahit,54,Kemarau & Penghujan,religi,4.833333333333333
+Makam Bung Karno,446,Kemarau & Penghujan,religi,4.753363228699552
+Makam Gusdur,396,Kemarau & Penghujan,religi,4.73989898989899
+Makam Kh Asyari,416,Kemarau,religi,4.78125
+Makam Sunan Bonang,288,Kemarau & Penghujan,religi,4.572916666666667
+Makam Sunan Giri,315,Kemarau & Penghujan,religi,4.6380952380952385
+Makam Sunan Gresik,463,Kemarau & Penghujan,religi,4.771058315334773
+Makam Sunandrajat,337,Kemarau & Penghujan,religi,4.70919881305638
+Masjid Agung Alanwar,241,Kemarau & Penghujan,religi,4.593360995850622
+Masjid Jamik Sumenep,211,Kemarau & Penghujan,religi,4.777251184834123
+Mercusuar Sembilang,245,Kemarau & Penghujan,sejarah,4.302040816326531
+Mojosemi Park,225,Kemarau & Penghujan,rekreasi/edukasi,3.968888888888889
+Museum 10 November,622,Kemarau & Penghujan,sejarah,4.733118971061093
+Museum Angkut,437,Kemarau & Penghujan,sejarah,4.688787185354691
+Museum Brawijaya,502,Kemarau & Penghujan,sejarah,4.633466135458168
+Museum Kota Probolinggo,180,Kemarau & Penghujan,sejarah,4.5777777777777775
+Museum Kraton Sumenep,325,Kemarau & Penghujan,sejarah,4.75076923076923
+Museum Kresek,380,Kemarau & Penghujan,sejarah,4.426315789473684
+Museum Trinil,264,Kemarau & Penghujan,sejarah,4.488636363636363
+Museum Trowulan,305,Kemarau & Penghujan,sejarah,4.678688524590164
+Negeri Atas Angin,649,Kemarau,pegunungan,4.294298921417566
+Oleh-oleh Brem,508,Kemarau,lainnya,4.570866141732283
+Pahlawan Street Center,390,Kemarau & Penghujan,lainnya,4.758974358974359
+Panta Isine,413,Kemarau & Penghujan,pantai,4.411622276029056
+Pantai Balekambang,684,Kemarau & Penghujan,pantai,3.995614035087719
+Pantai Bama,283,Kemarau,pantai,4.6219081272084805
+Pantai Banyutibo,409,Kemarau & Penghujan,pantai,4.687041564792176
+Pantai Bentar,324,Kemarau,pantai,4.367283950617284
+Pantai Bletok,458,Kemarau,pantai,4.495633187772926
+Pantai Boom Tuban,350,Kemarau,pantai,4.12
+Pantai Camplong,386,Kemarau,pantai,3.7590673575129534
+Pantai Goa Cina,300,Kemarau,pantai,4.4366666666666665
+Pantai Goa Petapa,165,Kemarau & Penghujan,pantai,4.393939393939394
+Pantai Karanggoso,254,Kemarau,pantai,4.539370078740157
+Pantai Kedung Tumpang,367,Kemarau,pantai,4.501362397820164
+Pantai Klayar,400,Kemarau & Penghujan,pantai,4.575
+Pantai Kutang,10,Kemarau,pantai,4.5
+Pantai Lombang,149,Kemarau,pantai,4.530201342281879
+Pantai Lon Malang,492,Kemarau,pantai,4.3638211382113825
+Pantai Molang,261,Kemarau,pantai,4.505747126436781
+Pantai Mutiara,845,Kemarau,pantai,4.4733727810650885
+Pantai Ngliyep,553,Kemarau,pantai,4.623869801084991
+Pantai Papuma,455,Kemarau,pantai,4.3428571428571425
+Pantai Pasir Putih,404,Kemarau & Penghujan,pantai,4.391089108910891
+Pantai Payangan,283,Kemarau,pantai,4.459363957597173
+Pantai Pelang,160,Kemarau,pantai,4.475
+Pantai Popoh,158,Kemarau,pantai,4.031645569620253
+Pantai Prigi,279,Kemarau & Penghujan,pantai,4.469534050179211
+Pantai Pulaumerah,156,Kemarau,pantai,4.743589743589744
+Pantai Pundak,296,Kemarau,pantai,4.631756756756757
+Pantai Rongkang,14,Kemarau & Penghujan,pantai,3.142857142857143
+Pantai Serang,412,Kemarau,pantai,4.599514563106796
+Pantai Siri Kemuning,50,Kemarau,pantai,4.32
+Pantai Slompeng,188,Kemarau & Penghujan,pantai,4.26063829787234
+Pantai Sowan,356,Kemarau & Penghujan,pantai,4.272471910112359
+Pantai Srau,402,Kemarau,pantai,4.701492537313433
+Pantai Sukamade,44,Kemarau & Penghujan,pantai,4.7272727272727275
+Pantai Talangsiring,284,Kemarau,pantai,4.112676056338028
+Pantai Tambakrejo,436,Kemarau,pantai,4.529816513761468
+Pantai Telengria,638,Kemarau,pantai,4.410658307210031
+Pantai Watu Karang,721,Kemarau,pantai,4.754507628294036
+Pantai Watuulo,403,Kemarau,pantai,4.302729528535981
+Pantai Wotgalih,183,Kemarau & Penghujan,pantai,4.387978142076503
+Paralayang,873,Kemarau & Penghujan,pegunungan,4.355097365406643
+Pemandian Air Panas Padusan,378,Kemarau,pemandian,3.4894179894179893
+Pulau Bawean,28,Kemarau & Penghujan,pantai,4.75
+Pulaulusi,119,Kemarau & Penghujan,lainnya,4.100840336134453
+Puncak Ratu,271,Kemarau,pegunungan,4.273062730627307
+Puncakb29,289,Kemarau,pegunungan,4.602076124567474
+Pusat Budaya Reog,25,Kemarau,sejarah,4.64
+Ranu Klakah,58,Kemarau,danau/waduk,4.327586206896552
+Ranu Regulo,278,Kemarau & Penghujan,danau/waduk,4.215827338129497
+Sarangan,216,Kemarau,danau/waduk,4.361111111111111
+Savanabekol,213,Kemarau,hutan/perkebunan,4.694835680751174
+Sedudo,616,Kemarau & Penghujan,air terjun,4.599025974025974
+Selecta,1013,Kemarau,rekreasi/edukasi,4.696939782823297
+Simpang 5 Gumul,198,Kemarau & Penghujan,lainnya,4.58080808080808
+Simpang Lima,183,Kemarau,lainnya,4.590163934426229
+Sumbermaron,51,Kemarau & Penghujan,sungai,4.7254901960784315
+Sungai Maron,686,Kemarau & Penghujan,sungai,4.727405247813411
+Surabaya North Quay,578,Kemarau,rekreasi/edukasi,4.235294117647059
+Syaikhona Kholil,447,Kemarau,religi,4.805369127516778
+Taman Abhirama,785,Kemarau & Penghujan,taman,4.445859872611465
+Taman Bantaran Kali,356,Kemarau & Penghujan,taman,4.52808988764045
+Taman Banteng Pancasila,112,Kemarau & Penghujan,taman,4.428571428571429
+Taman Brantas,358,Kemarau & Penghujan,taman,4.636871508379889
+Taman Bungkul,499,Kemarau & Penghujan,taman,4.515030060120241
+Taman Dayu,218,Kemarau & Penghujan,taman,4.518348623853211
+Taman Kebon Rojo,677,Kemarau & Penghujan,taman,4.642540620384048
+Taman Kota Pasuruan,227,Kemarau & Penghujan,taman,4.537444933920705
+Taman Nasional Alas Purwo,162,Kemarau,hutan/perkebunan,4.722222222222222
+Taman Nasional Baluran,857,Kemarau & Penghujan,hutan/perkebunan,4.641773628938156
+Taman Rajekwesi,1022,Kemarau & Penghujan,taman,4.36986301369863
+Taman Safari Prigen,740,Kemarau & Penghujan,rekreasi/edukasi,4.524324324324325
+Taman Wisata Genilangit,243,Kemarau,pegunungan,4.62962962962963
+Telaga Ngabel,422,Kemarau & Penghujan,danau/waduk,4.54739336492891
+Teluk Jumiang,106,Kemarau & Penghujan,pantai,4.084905660377358
+Teluk Love,10,Kemarau & Penghujan,pantai,5.0
+Texas Wonocolo,130,Kemarau & Penghujan,rekreasi/edukasi,4.423076923076923
+Umbul Watermadiun,216,Kemarau & Penghujan,pemandian,3.8055555555555554
+Waduk Beningwidas,105,Kemarau & Penghujan,danau/waduk,4.295238095238095
+Waduk Gondang,50,Kemarau & Penghujan,danau/waduk,4.32
+Waduk Pacal,132,Kemarau,danau/waduk,4.371212121212121
+Waduk Selorejo,220,Kemarau,danau/waduk,4.118181818181818
+Waduk Wonorejo,165,Kemarau,danau/waduk,4.315151515151515
+Wana Wisata Grape,284,Kemarau,rekreasi/edukasi,4.253521126760563
+Wisata Bahari Lamongan,361,Kemarau,rekreasi/edukasi,4.434903047091413
+Wisata Wonosalam,381,Kemarau,hutan/perkebunan,4.044619422572178

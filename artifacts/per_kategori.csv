@@ -1,0 +1,15 @@
+kategori,Hit@10 (A),Prec@10 (B),n_destinasi,batas_atas_Prec@10
+pantai,0.3404,0.9636,44,1.0
+sejarah,0.567,0.6696,23,1.0
+air terjun,0.3963,0.8455,22,1.0
+pegunungan,0.4697,0.6727,22,1.0
+rekreasi/edukasi,0.527,0.5353,17,1.0
+hutan/perkebunan,0.4822,0.3429,14,1.0
+religi,0.6481,0.7231,13,1.0
+taman,0.4902,0.5818,11,1.0
+danau/waduk,0.3686,0.4,9,0.8
+goa,0.402,0.325,8,0.7
+lainnya,0.4468,0.225,8,0.7
+desa/kampung wisata,0.5444,0.1667,6,0.5
+pemandian,0.6488,0.0667,3,0.2
+sungai,0.5894,0.0,2,0.1

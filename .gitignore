@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Lingkungan lokal
+venv/
+.venv/
+.env
+
+# Berkas besar yang tidak dibutuhkan aplikasi
+hasil_cbf.zip
+*.xlsx
